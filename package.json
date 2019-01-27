@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2",
+    "xss-filters": "^1.2.7"
+  }
+}
